@@ -1,0 +1,5 @@
+package com.xx.springcloud;
+
+public class EurekaServer7001_App {
+
+}

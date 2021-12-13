@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.xx.springcloud&apos; to &apos;microservicecloud-eureka-7002/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;microservicecloud-eureka-7001&apos;&#x0D;&#x0A;- Destination element: &apos;microservicecloud-eureka-7002/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;microservicecloud-eureka-7001/src/main/java/com.xx.springcloud&apos;" description="Copy package" destination="=microservicecloud-eureka-7002/src\/main\/java" element1="/src\/main\/java&lt;com.xx.springcloud" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1638692524624" version="1.0"/>
+</session>
